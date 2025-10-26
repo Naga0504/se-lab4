@@ -1,0 +1,4 @@
+# T1 - Basic SINGLE shot
+GT4500,1,0,1,0
+TORPEDO,SINGLE
+EXIT
