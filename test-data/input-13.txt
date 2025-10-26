@@ -1,0 +1,5 @@
+# Secondary empty, primary still has torpedoes -> should fire from primary again
+GT4500,3,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+EXIT

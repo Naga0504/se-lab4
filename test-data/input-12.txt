@@ -1,0 +1,4 @@
+# ALL mode, both stores fail
+GT4500,2,1.0,2,1.0
+TORPEDO,ALL
+EXIT
