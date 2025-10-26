@@ -1,0 +1,4 @@
+# T2 - Primary empty, should fire from secondary
+GT4500,0,0,1,0
+TORPEDO,SINGLE
+EXIT

@@ -1,0 +1,4 @@
+# Primary store always fails, secondary succeeds
+GT4500,2,1.0,2,0
+TORPEDO,SINGLE
+EXIT
